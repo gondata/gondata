@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance and crypto fields.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on data projects.
-- 📫 How to reach me: gnnoblega@gmail.com
+- 📫 How to reach me: gnnoblega@gmail.com and https://www.linkedin.com/in/noblega-gonzalo/
 
 <!---
 gondata/gondata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
