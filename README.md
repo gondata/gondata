@@ -1,4 +1,4 @@
-actuary, quant enthusiast
+actuary, data enthusiast
 
 <!---
 gondata/gondata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
